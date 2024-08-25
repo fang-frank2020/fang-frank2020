@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Frank and I am a sophomore studying CS @ UMich. Feel free to connect with me through Linkedin for any questions: https://www.linkedin.com/in/frank-fang-b7a20b21a/
+### Hi there 👋, I'm Frank and I am a junior studying CS @ UMich. Feel free to connect with me through Linkedin for any questions: [https://www.linkedin.com/in/frank-fang-b7a20b21a/](https://www.linkedin.com/in/fangfr/)
 
 <!--
 **fang-frank2020/fang-frank2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
